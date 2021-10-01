@@ -196,7 +196,7 @@ p{
 	padding: 0 20px;
 }
 #first-slider .slide1 h3, #first-slider .slide2 h3, #first-slider .slide3 h3, #first-slider .slide4 h3,#first-slider .slide5 h3,#first-slider .slide6 h3,#first-slider .slide7 h3,#first-slider .slide8 h3{
-    color: #fff;
+    color: rgb(250, 249, 249);
     font-size: 20px;
 	width:60%;
 	margin:35px auto 0 auto;
@@ -370,10 +370,12 @@ p{
 /*       Slides backgrounds     */
 /********************************/
 #first-slider .slide1 {
+
 	background:url(../images/slide1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
+
 
 #first-slider .slide2 {
 	background:url(../images/slide2.jpg);
@@ -406,7 +408,7 @@ p{
     background-repeat: no-repeat;
 }
 #first-slider .slide8 {
-	background:url(../images/slide8.jpg);
+	background:url(../images/slide8.jpeg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
